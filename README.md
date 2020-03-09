@@ -1,6 +1,10 @@
 # Healthcare-Analytics-Framework
-Healthcare Analytics Framework (HCAF) is an interdisciplinary engagement model (methodologies and roadmap). The Framework has five tightly coupled pillars, Health Science, Social Science, Information Science, Technology Science and Management Science, (with multiple sub-pillars each), that can help health and technology scientists and practitioners to communicate effectively for developing integrated healthcare analytical solutions, by utilizing: a communication bridge among stakeholders to deliver effective healthcare solution; a roadmap of Requirements translation from Healthcare to Informatics; a top-down solution blueprint for bottom-up implementation; the science of collecting health problem-related Massive data and transforming it to information and knowledge to access in real-time; and an ARTS Self-Service Healthcare Analytics Solutions Enabler for improving care delivery, population health management strategies and the revenue cycle.
-# Healthcare data hub walkthrough
+Healthcare Analytics Framework (HCAF) is an interdisciplinary engagement model (methodologies and roadmap). The Framework has five tightly coupled pillars, Health Science, Social Science, Information Science, Technology Science, and Management Science. HCAF aims to develop an integrated healthcare analytical solutions that provides the following: 
+  - A communication bridge among stakeholders to deliver effective healthcare solution; 
+  - A roadmap of Requirements translation from Healthcare to Informatics
+  - A top-down solution blueprint for bottom-up implementation; 
+
+# Healthcare data hub
 Healthcare information comes from various sources and can generate large amounts of data:
 - Health information exchange (HIE)
 - Electronic health records system (EHR)
